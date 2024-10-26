@@ -1,0 +1,103 @@
+body{
+    background:lightgray;
+  
+}
+.wrapper{
+    margin: auto;
+    width: 35%;
+    height: 20%
+
+}
+.first-photo {
+    padding-top: 0px;
+    padding-bottom: 5px;
+    background: white;
+}
+.something-cute{
+    padding-bottom: 5px;
+    background: white;
+    margin-top: 30px;
+
+}
+.the-paparazzi{
+    padding-bottom: 5px;
+    background: white;
+    margin-top: 30px;
+    
+}
+.food{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: white;
+    margin-top: 30px;
+}
+
+header{
+    top: 0%;
+    font-size: larger;
+    margin: auto;
+    background: white;
+    text-align: center;
+   
+}
+.first-photo img{
+    width: 100%;
+    height: 200px;
+    
+    
+}
+.something-cute img{
+    width: 100%;
+    height: 200px;
+}
+.the-paparazzi img{
+    width: 100%;
+    height: 200px;
+}
+.food img{
+    width: 100%;
+    height: 200px;
+}
+
+    
+
+h4{
+    font-size: small;
+    color: grey;
+}
+.separate{
+    display: flex;
+}
+.separate h3{
+    width: 80%;
+}
+.separate h4{
+        width: 20%;
+}
+.separate1{
+    display: flex;
+}
+.separate1 h3{
+    width: 90%;
+}
+.separate1 h4{
+     width: 10%;
+}
+.separate2{
+    display: flex;
+}
+.separate2 h3{
+    width: 80%;
+}
+.separate2 h4{
+        width: 20%;
+}
+.separate3{
+    display: flex;
+}
+.separate3 h3{
+    width: 80%;
+}
+.separate3 h4{
+        width: 20%;
+}
